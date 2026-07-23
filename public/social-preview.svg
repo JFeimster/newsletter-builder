@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f3f0e7"/>
+  <pattern id="paper" width="7" height="7" patternUnits="userSpaceOnUse">
+    <circle cx="1" cy="1" r=".7" fill="#11110f" opacity=".11"/>
+  </pattern>
+  <rect width="1200" height="630" fill="url(#paper)"/>
+  <rect x="0" y="0" width="1200" height="76" fill="#11110f"/>
+  <rect x="38" y="18" width="42" height="42" fill="#c8ff2e" stroke="#f3f0e7" stroke-width="2"/>
+  <text x="59" y="45" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-size="13" font-weight="900" fill="#11110f">NB</text>
+  <text x="96" y="47" font-family="Arial Black,Arial,sans-serif" font-size="23" font-weight="900" fill="#f3f0e7">NEWSLETTER BUILDER</text>
+  <rect x="720" y="76" width="480" height="554" fill="#20d5e8"/>
+  <path d="M720 76V630M0 76H1200" stroke="#11110f" stroke-width="4"/>
+  <text x="54" y="168" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="800" letter-spacing="3" fill="#11110f">PUBLICATION OPERATING SYSTEM</text>
+  <text x="50" y="275" font-family="Arial Black,Arial,sans-serif" font-size="86" font-weight="900" letter-spacing="-5" fill="#11110f">BUILD A</text>
+  <text x="50" y="365" font-family="Arial Black,Arial,sans-serif" font-size="86" font-weight="900" letter-spacing="-5" fill="#11110f">NEWSLETTER</text>
+  <text x="50" y="455" font-family="Georgia,serif" font-size="78" font-style="italic" fill="#ff6a2b">WORTH OPENING.</text>
+  <rect x="52" y="506" width="290" height="62" fill="#c8ff2e" stroke="#11110f" stroke-width="4"/>
+  <text x="197" y="545" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="900" fill="#11110f">BUILD MY NEWSLETTER →</text>
+  <text x="772" y="150" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="900" letter-spacing="2" fill="#11110f">STRATEGY / DESIGN / LAUNCH</text>
+  <line x1="770" y1="176" x2="1146" y2="176" stroke="#11110f" stroke-width="4"/>
+  <text x="770" y="275" font-family="Arial Black,Arial,sans-serif" font-size="59" font-weight="900" letter-spacing="-3" fill="#11110f">NAME IT.</text>
+  <text x="770" y="345" font-family="Arial Black,Arial,sans-serif" font-size="59" font-weight="900" letter-spacing="-3" fill="#11110f">DESIGN IT.</text>
+  <text x="770" y="415" font-family="Georgia,serif" font-size="56" font-style="italic" fill="#11110f">SHIP IT.</text>
+  <rect x="770" y="475" width="376" height="92" fill="#ff6a2b" stroke="#11110f" stroke-width="4"/>
+  <text x="794" y="512" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="900" letter-spacing="2" fill="#11110f">THE COMPLETE LAUNCH PACKAGE</text>
+  <text x="794" y="545" font-family="Georgia,serif" font-size="17" fill="#11110f">12 issues. Welcome. Referral. Sponsor. Landing page.</text>
+</svg>
