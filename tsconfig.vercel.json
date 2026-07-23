@@ -1,24 +1,14 @@
 {
   "extends": "./tsconfig.json",
   "compilerOptions": {
-    "incremental": false
+    "types": ["node", "react", "react-dom"],
+    "typeRoots": ["./node_modules/@types", "./types"]
   },
-  "include": [
-    "next-env.d.ts",
-    "app/**/*.ts",
-    "app/**/*.tsx",
-    "types/vercel-runtime.d.ts",
-    ".next/types/**/*.ts",
-    ".next/dev/types/**/*.ts"
-  ],
   "exclude": [
     "node_modules",
+    ".vinext",
     "build",
-    "db",
-    "drizzle",
-    "examples",
     "worker",
-    "drizzle.config.ts",
     "vite.config.ts"
   ]
 }
